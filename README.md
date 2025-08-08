@@ -51,15 +51,15 @@
 
 ---
 
-## 📚 Online Training Highlights  
-- **Complete Data Analyst Bootcamp (Udemy)** – From Basics to Advanced  
-  - **Data Analytics Fundamentals** – Role, process, and applications of analytics in business  
-  - **Python Programming (Basic to Advanced)** – Text handling, list comprehensions, lambda functions  
-  - **NumPy & Pandas** – Data preprocessing, transformations, and manipulation  
-  - **APIs & File Handling** – Gathering and integrating real-world datasets  
-  - **Data Cleaning & Preprocessing** – Converting raw data into analysis-ready formats  
-  - **Data Visualization** – Pie charts, bar charts, histograms, scatter plots, regression plots  
-  - **Capstone Project** – End-to-end project applying all learned skills  
+### Google Data Analytics Specialization – Coursera
+- [Preparing Data for Analysis with Microsoft Excel – 90.66%](https://www.coursera.org/account/accomplishments/records/B9F6YEV5RKSD)  
+- [Share Data Through the Art of Visualization – 91.40%](https://www.coursera.org/account/accomplishments/records/JUDSO0WVE7OP)  
+- [Ask Questions to Make Data-Driven Decisions – 86.66%](https://www.coursera.org/account/accomplishments/records/4DO03OINSH7F)  
+- [Foundations: Data, Data, Everywhere – 90.75%](https://www.coursera.org/account/accomplishments/records/QVUJUO24L42T)  
+- [Analyze Data to Answer Questions – 87.52%](https://www.coursera.org/account/accomplishments/records/WH9UH8SSM6DY)  
+- [Prepare Data for Exploration – 91.79%](https://www.coursera.org/account/accomplishments/records/W19VZP8HYTUF)  
+- [Process Data from Dirty to Clean – 94.01%](https://www.coursera.org/account/accomplishments/records/M6SAOU4U42OO)  
+
 
 ---
 
