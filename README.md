@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hemant  
+# Hi 👋, I'm Hemant Chauhan  
 **Aspiring Data Analyst | Decision Analytics Enthusiast | Problem Solver**  
 
 🌐 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heman7chauhan)  
@@ -7,7 +7,7 @@
 ---
 
 ## 💡 About Me  
-- 🎯 Preparing for **Data Analyst** roles in consulting & analytics  
+- 🎯 Preparing for **Decision Analytics Associate** roles in consulting & analytics  
 - 📊 Skilled in **Python, SQL, Excel, and Data Visualization**  
 - 💻 Passionate about **Data Cleaning, EDA, and Predictive Modeling**  
 - 📚 Certified by **Google, Microsoft, McKinsey**  
@@ -22,6 +22,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=flat&logo=python&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
 
 **Databases:**  
@@ -47,6 +48,18 @@
   - Prepare Data for Exploration – 91.79%  
   - Process Data from Dirty to Clean – 94.01%  
 - **[McKinsey Forward Program](https://academy.mckinseyaccelerate.com/learn/learning-plans/2897/mckinseyorg-forward-program)**  
+
+---
+
+## 📚 Online Training Highlights  
+- **Complete Data Analyst Bootcamp (Udemy)** – From Basics to Advanced  
+  - **Data Analytics Fundamentals** – Role, process, and applications of analytics in business  
+  - **Python Programming (Basic to Advanced)** – Text handling, list comprehensions, lambda functions  
+  - **NumPy & Pandas** – Data preprocessing, transformations, and manipulation  
+  - **APIs & File Handling** – Gathering and integrating real-world datasets  
+  - **Data Cleaning & Preprocessing** – Converting raw data into analysis-ready formats  
+  - **Data Visualization** – Pie charts, bar charts, histograms, scatter plots, regression plots  
+  - **Capstone Project** – End-to-end project applying all learned skills  
 
 ---
 
