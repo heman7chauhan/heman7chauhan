@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hemant Chauhan  
+# Hi 👋, I'm Hemant  
 **Aspiring Data Analyst | Decision Analytics Enthusiast | Problem Solver**  
 
 🌐 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/heman7chauhan)  
@@ -7,7 +7,7 @@
 ---
 
 ## 💡 About Me  
-- 🎯 Preparing for **Decision Analytics Associate** roles in consulting & analytics  
+- 🎯 Preparing for **Data Analyst** roles in consulting & analytics  
 - 📊 Skilled in **Python, SQL, Excel, and Data Visualization**  
 - 💻 Passionate about **Data Cleaning, EDA, and Predictive Modeling**  
 - 📚 Certified by **Google, Microsoft, McKinsey**  
